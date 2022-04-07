@@ -7,7 +7,7 @@ send email <br/>
 Full authentication system <br/>
 <br/>
 # Note:
-About the front end part, it's not good because i focs at Back End part.
+About the front end part, it's not good styling--> because i wasn't have UI design & I focs at Back End part.
 
 # how to run 
 install librarys from requirements file--> pip install -r requirements.txt <br/>
